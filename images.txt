@@ -6,3 +6,5 @@ mongo:7.0.0
 rabbitmq:management
 anapsix/alpine-java:8_server-jre_unlimited
 clockard/alpine-java:8_jdk
+minio:RELEASE.2023-03-24T21-41-23Z
+zlmediakit:master
